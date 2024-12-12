@@ -20,3 +20,9 @@ project_root/
 │
 ├── requirements.txt          # List of dependencies
 └── .gitignore                # List o file that should not be uploaded to github
+
+
+
+After running main.py, you should see
+![alt text](image-1.png)
+![alt text](image.png)
